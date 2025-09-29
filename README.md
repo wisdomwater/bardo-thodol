@@ -1,7 +1,3 @@
-Great — thanks for sharing your *Pistis Sophia* README as a model. Here’s a draft for your *Tibetan Book of the Dead* repository in the same voice, structure, and tone:
-
----
-
 # The Tibetan Book of the Dead: A Modern Devotional Rendering
 
 This project is a warm, contemplative reinterpretation of *The Tibetan Book of the Dead* (*Bardo Thödol*). Long revered as a guide for the dying and a reminder for the living, this devotional retelling seeks to bring its profound insights into clear, inviting language for the modern reader.
@@ -41,7 +37,3 @@ This is a creative spiritual work. It does not claim academic accuracy or author
 ---
 
 *May this work be a lantern for your journey, whether in life, in dying, or in the spaces between.*
-
----
-
-Would you like me to also prepare a slightly shorter “lite” version (maybe for GitHub front-page readability), while keeping this fuller one in the repo?
