@@ -32,7 +32,7 @@ This is a creative spiritual work. It does not claim academic accuracy or author
 
 ## License
 
-[MIT License](LICENSE)
+[CC-NC](LICENSE)
 
 ---
 
