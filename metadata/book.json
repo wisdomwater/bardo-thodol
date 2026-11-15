@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "bardo-thodol",
+  "title": "The Tibetan Book of the Dead",
+  "subtitle": "A Modern Retelling and Devotional",
+  "author": "Michael Collins",
+  "sourceAuthors": [
+    "Padmasambhava (traditional attribution)",
+    "Karma Lingpa (treasure revealer)"
+  ],
+  "sourceWorks": [
+    {
+      "title": "Bardo Thödol (The Tibetan Book of the Dead)",
+      "authors": [
+        "Padmasambhava (traditional attribution)",
+        "Karma Lingpa (treasure revealer)"
+      ],
+      "edition": "Undated Holybooks electronic edition; English translation credited to Lāma Kazi Dawa-Samdup, in the Evans-Wentz translation tradition",
+      "provenance": "Source supplied by the maintainer: https://dn760101.eu.archive.org/0/items/soi-book-collection-4/The-Tibetan-Book-of-the-Dead.pdf . The 59-page PDF credits the English translation to Lāma Kazi Dawa-Samdup and carries Holybooks.com download notices. Its foreword describes the traditional attribution to Padmasambhava, the revelation by Karma Lingpa, and the first Oxford publication edited by W. Y. Evans-Wentz in 1927. This electronic file does not establish a particular print edition or its own publication date. The repository README independently identifies the Evans-Wentz translation as its basis. These source details are provenance, not a determination of publication rights."
+    }
+  ],
+  "summary": "A contemporary devotional rendering of the Bardo Thödol, with forty-five chapters pairing retellings, explanations, and reflections. Tibetan Buddhist imagery of the Clear Light, peaceful and wrathful deities, death, and rebirth opens a contemplation of recognition, compassion, and letting go.",
+  "description": "Michael Collins brings the Bardo Thödol into a modern devotional voice, following its passages through the Clear Light, peaceful and wrathful visions, and the state of becoming. Each chapter combines a retelling with an explanation and a reflective practice, followed by invocations, prayers, root verses, and a closing blessing. The work explores fear, impermanence, compassion, and awakening in both life and death. It is a creative spiritual adaptation rather than a scholarly translation or a claim to represent every Tibetan Buddhist interpretation; the original source, English translation, and contemporary devotional voice remain distinct.",
+  "keywords": [
+    "Bardo Thodol",
+    "Tibetan Book of the Dead",
+    "Tibetan Buddhism",
+    "Clear Light",
+    "death and rebirth",
+    "contemplative reflection",
+    "impermanence"
+  ],
+  "themes": [
+    "compassion",
+    "surrender",
+    "attention",
+    "trust",
+    "uncertainty",
+    "freedom",
+    "hope"
+  ],
+  "traditions": [
+    "Tibetan Buddhism",
+    "Vajrayana Buddhism"
+  ],
+  "language": "en",
+  "cover": {
+    "front": "artwork/cover.png"
+  },
+  "publication": {
+    "status": "published",
+    "edition": null,
+    "publishedAt": null,
+    "freeWebEligibleAt": null,
+    "rightsStatus": "unresolved",
+    "metadataReview": "pending"
+  },
+  "links": {
+    "github": "https://github.com/wisdomwater/bardo-thodol",
+    "amazon": "https://www.amazon.com/dp/B0G4R129ZJ"
+  },
+  "formats": [
+    "pdf",
+    "paperback",
+    "epub",
+    "docx",
+    "md"
+  ]
+}

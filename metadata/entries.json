@@ -1,0 +1,847 @@
+{
+  "schemaVersion": 1,
+  "entries": {
+    "introduction": {
+      "contentId": "introduction",
+      "summary": "The introduction presents the bardos as thresholds within life as well as death and distinguishes this devotional rendering from a scholarly translation. It invites slow reading amid change, grief, and the contemplation of impermanence.",
+      "keywords": [
+        "bardos",
+        "thresholds",
+        "devotional adaptation",
+        "impermanence"
+      ],
+      "themes": [
+        "uncertainty",
+        "compassion",
+        "spiritual-growth"
+      ],
+      "readingMinutes": 2
+    },
+    "chapter-001": {
+      "contentId": "chapter-001",
+      "summary": "The opening bows to boundless light, compassionate guides, and teachers before introducing liberation through hearing. Its reflection imagines a threshold where ordinary people can listen, trust, and remember.",
+      "keywords": [
+        "liberation by hearing",
+        "thresholds",
+        "spiritual guides",
+        "ordinary practitioners"
+      ],
+      "themes": [
+        "trust",
+        "humility",
+        "hope"
+      ],
+      "readingMinutes": 3
+    },
+    "chapter-002": {
+      "contentId": "chapter-002",
+      "summary": "Instructions for reading aloud emphasize a calm, caring voice and sincere offerings. The reflection invites readers to offer words of comfort to someone facing fear or loss.",
+      "keywords": [
+        "reading aloud",
+        "comforting others",
+        "sincere offerings",
+        "companionship"
+      ],
+      "themes": [
+        "compassion",
+        "community",
+        "prayer"
+      ],
+      "readingMinutes": 3
+    },
+    "chapter-003": {
+      "contentId": "chapter-003",
+      "summary": "The retelling presents the fading of breath and senses as an opportunity to recognize the Clear Light. The accompanying reflection approaches this teaching through trust and remembrance at the threshold of death.",
+      "keywords": [
+        "signs of departure",
+        "Clear Light",
+        "last breath",
+        "remembrance"
+      ],
+      "themes": [
+        "uncertainty",
+        "trust",
+        "freedom"
+      ],
+      "readingMinutes": 3
+    },
+    "chapter-004": {
+      "contentId": "chapter-004",
+      "summary": "The Clear Light is presented as the nature of mind, encountered at death and practiced through recognition in life. A spacious-sky visualization invites a gentle return to that awareness.",
+      "keywords": [
+        "Clear Light",
+        "nature of mind",
+        "recognition",
+        "sky meditation"
+      ],
+      "themes": [
+        "attention",
+        "trust",
+        "spiritual-growth"
+      ],
+      "readingMinutes": 3
+    },
+    "chapter-005": {
+      "contentId": "chapter-005",
+      "summary": "The chapter turns the encounter with the Clear Light toward compassion for all beings. Its reflection offers both life and death in service of awakening beyond personal liberation.",
+      "keywords": [
+        "compassionate resolve",
+        "awakening for others",
+        "Clear Light",
+        "service"
+      ],
+      "themes": [
+        "compassion",
+        "love",
+        "surrender"
+      ],
+      "readingMinutes": 2
+    },
+    "chapter-006": {
+      "contentId": "chapter-006",
+      "summary": "The Secondary Light offers another opportunity for recognition when the first encounter has been missed. Familiar prayers, remembered practice, and a trusted voice become anchors amid confusion.",
+      "keywords": [
+        "Secondary Light",
+        "remembered practice",
+        "trusted voice",
+        "confusion"
+      ],
+      "themes": [
+        "hope",
+        "trust",
+        "prayer"
+      ],
+      "readingMinutes": 3
+    },
+    "chapter-007": {
+      "contentId": "chapter-007",
+      "summary": "Compassion and a gentle reminder are offered when fear or forgetfulness obscures recognition. The reflection imagines a kind voice returning the wandering mind to the Light.",
+      "keywords": [
+        "gentle reminder",
+        "forgetfulness",
+        "compassionate guidance",
+        "remembrance"
+      ],
+      "themes": [
+        "compassion",
+        "mercy",
+        "hope"
+      ],
+      "readingMinutes": 2
+    },
+    "chapter-008": {
+      "contentId": "chapter-008",
+      "summary": "The chapter introduces the bardo of reality and the six bardos as a map through changing appearances. Its reflection practices witnessing sounds and images without clinging to them.",
+      "keywords": [
+        "six bardos",
+        "bardo of reality",
+        "karmic appearances",
+        "nonclinging"
+      ],
+      "themes": [
+        "attention",
+        "uncertainty",
+        "surrender"
+      ],
+      "readingMinutes": 3
+    },
+    "chapter-009": {
+      "contentId": "chapter-009",
+      "summary": "Sounds, lights, and rays are interpreted as displays of mind rather than external enemies. The reflection invites recognition of these appearances instead of retreating in fear.",
+      "keywords": [
+        "sounds and lights",
+        "recognition",
+        "appearances of mind",
+        "fear"
+      ],
+      "themes": [
+        "attention",
+        "trust",
+        "freedom"
+      ],
+      "readingMinutes": 3
+    },
+    "chapter-010": {
+      "contentId": "chapter-010",
+      "summary": "Vairochana’s dazzling blue light is contrasted with the softer pull of familiar habit. The reflection asks for courage to turn toward awakening even when its brightness feels overwhelming.",
+      "keywords": [
+        "Vairochana",
+        "blue light",
+        "familiar habits",
+        "wisdom"
+      ],
+      "themes": [
+        "trust",
+        "surrender",
+        "spiritual-growth"
+      ],
+      "readingMinutes": 3
+    },
+    "chapter-011": {
+      "contentId": "chapter-011",
+      "summary": "Vajrasattva’s white light represents mirror-like wisdom, contrasted with the pull of anger and smoky appearances. The reflection turns from reactive anger toward clarity and peace.",
+      "keywords": [
+        "Vajrasattva",
+        "white light",
+        "mirror-like wisdom",
+        "anger"
+      ],
+      "themes": [
+        "attention",
+        "rest",
+        "freedom"
+      ],
+      "readingMinutes": 3
+    },
+    "chapter-012": {
+      "contentId": "chapter-012",
+      "summary": "Ratna-Sambhava’s yellow light brings the wisdom of equality into contrast with pride and familiar comfort. Humility and refuge guide the accompanying reflection.",
+      "keywords": [
+        "Ratna-Sambhava",
+        "yellow light",
+        "equality",
+        "pride",
+        "humility"
+      ],
+      "themes": [
+        "humility",
+        "trust",
+        "surrender"
+      ],
+      "readingMinutes": 3
+    },
+    "chapter-013": {
+      "contentId": "chapter-013",
+      "summary": "Amitābha’s red light offers discerning wisdom amid the pull of attachment and craving. The reflection practices releasing desire rather than choosing the dull comfort of the hungry-ghost realm.",
+      "keywords": [
+        "Amitabha",
+        "red light",
+        "attachment",
+        "craving",
+        "hungry ghosts"
+      ],
+      "themes": [
+        "surrender",
+        "compassion",
+        "freedom"
+      ],
+      "readingMinutes": 3
+    },
+    "chapter-014": {
+      "contentId": "chapter-014",
+      "summary": "Amogha-Siddhi’s green light represents wise action, contrasted with jealousy and rivalry. The reflection invites impartiality and the release of comparison.",
+      "keywords": [
+        "Amogha-Siddhi",
+        "green light",
+        "jealousy",
+        "rivalry",
+        "wise action"
+      ],
+      "themes": [
+        "compassion",
+        "attention",
+        "freedom"
+      ],
+      "readingMinutes": 3
+    },
+    "chapter-015": {
+      "contentId": "chapter-015",
+      "summary": "The assembly of peaceful and fierce forms is presented as a unified display of mind’s wisdom. The reflection imagines a circle of radiant beings and practices recognition without fear.",
+      "keywords": [
+        "union of lights",
+        "peaceful deities",
+        "fierce forms",
+        "recognition"
+      ],
+      "themes": [
+        "trust",
+        "attention",
+        "freedom"
+      ],
+      "readingMinutes": 3
+    },
+    "chapter-016": {
+      "contentId": "chapter-016",
+      "summary": "Four wisdom lights shine together as dimmer lights of habit pull toward the six realms. Recognition is likened to a child remembering its mother rather than an achievement to force.",
+      "keywords": [
+        "four wisdom lights",
+        "six realms",
+        "karmic habits",
+        "recognition"
+      ],
+      "themes": [
+        "trust",
+        "attention",
+        "surrender"
+      ],
+      "readingMinutes": 3
+    },
+    "chapter-017": {
+      "contentId": "chapter-017",
+      "summary": "Knowledge-Holders, dakinis, sound, and rainbow radiance form an overwhelming display of wisdom. The reflection turns from the dull familiarity of ignorance toward recognition and freedom.",
+      "keywords": [
+        "Knowledge-Holders",
+        "dakinis",
+        "rainbow radiance",
+        "ignorance"
+      ],
+      "themes": [
+        "trust",
+        "attention",
+        "freedom"
+      ],
+      "readingMinutes": 4
+    },
+    "chapter-018": {
+      "contentId": "chapter-018",
+      "summary": "The wrathful deities are introduced as fierce expressions of the same wisdom found in peaceful forms. The explanation contrasts direct recognition and humble practice with reliance on spiritual learning alone.",
+      "keywords": [
+        "wrathful deities",
+        "peaceful forms",
+        "direct recognition",
+        "spiritual pride"
+      ],
+      "themes": [
+        "humility",
+        "trust",
+        "compassion"
+      ],
+      "readingMinutes": 3
+    },
+    "chapter-019": {
+      "contentId": "chapter-019",
+      "summary": "Heruka appears as the fierce counterpart of Vairochana, with flames and symbols of death. The reflection practices recognizing this terrifying appearance as wisdom rather than fleeing it.",
+      "keywords": [
+        "Heruka",
+        "Vairochana",
+        "fierce wisdom",
+        "recognition"
+      ],
+      "themes": [
+        "trust",
+        "compassion",
+        "freedom"
+      ],
+      "readingMinutes": 3
+    },
+    "chapter-020": {
+      "contentId": "chapter-020",
+      "summary": "Vajra-Heruka embodies diamond-like clarity through fierce imagery of weapons, flames, and skull-bowls. The reflection seeks steadiness in recognizing wisdom beneath fear.",
+      "keywords": [
+        "Vajra-Heruka",
+        "diamond-like wisdom",
+        "clarity",
+        "fierce imagery"
+      ],
+      "themes": [
+        "trust",
+        "attention",
+        "freedom"
+      ],
+      "readingMinutes": 2
+    },
+    "chapter-021": {
+      "contentId": "chapter-021",
+      "summary": "Ratna-Heruka’s jewel imagery connects abundance with equality rather than possession or status. The reflection imagines receiving treasure without clinging to it.",
+      "keywords": [
+        "Ratna-Heruka",
+        "jewel family",
+        "abundance",
+        "equality",
+        "nonclinging"
+      ],
+      "themes": [
+        "humility",
+        "surrender",
+        "freedom"
+      ],
+      "readingMinutes": 2
+    },
+    "chapter-022": {
+      "contentId": "chapter-022",
+      "summary": "Padma-Heruka presents the lotus family’s compassion in a blazing, fierce form. The reflection uses a fiery red lotus to contemplate love that cuts through attachment.",
+      "keywords": [
+        "Padma-Heruka",
+        "lotus family",
+        "fierce compassion",
+        "attachment"
+      ],
+      "themes": [
+        "compassion",
+        "love",
+        "surrender"
+      ],
+      "readingMinutes": 2
+    },
+    "chapter-023": {
+      "contentId": "chapter-023",
+      "summary": "Karma-Heruka represents the power of enlightened action and skillful means. The chapter asks readers to recognize intense energy as potential wisdom rather than be driven by fear or jealousy.",
+      "keywords": [
+        "Karma-Heruka",
+        "skillful means",
+        "enlightened action",
+        "jealousy"
+      ],
+      "themes": [
+        "compassion",
+        "attention",
+        "freedom"
+      ],
+      "readingMinutes": 3
+    },
+    "chapter-024": {
+      "contentId": "chapter-024",
+      "summary": "The Kerimas and Htamenmas are interpreted as fierce manifestations of instincts, passions, and feared inner energies. The reflection practices acknowledging these figures instead of treating them as enemies.",
+      "keywords": [
+        "Kerimas",
+        "Htamenmas",
+        "fierce dakinis",
+        "instincts",
+        "shadow"
+      ],
+      "themes": [
+        "attention",
+        "trust",
+        "freedom"
+      ],
+      "readingMinutes": 3
+    },
+    "chapter-025": {
+      "contentId": "chapter-025",
+      "summary": "The wrathful goddesses bring the cycle’s frightening imagery to a culmination. The reflection invites recognition and integration of feared thought-forms rather than retreat from them.",
+      "keywords": [
+        "wrathful goddesses",
+        "thought-forms",
+        "recognition",
+        "integration"
+      ],
+      "themes": [
+        "attention",
+        "trust",
+        "freedom"
+      ],
+      "readingMinutes": 3
+    },
+    "chapter-026": {
+      "contentId": "chapter-026",
+      "summary": "The Lord of Death and accompanying visions are presented as projections of karma within the bardo. The reflection returns to the Clear Light amid terror.",
+      "keywords": [
+        "Lord of Death",
+        "karma",
+        "wrathful visions",
+        "Clear Light"
+      ],
+      "themes": [
+        "trust",
+        "uncertainty",
+        "freedom"
+      ],
+      "readingMinutes": 3
+    },
+    "chapter-027": {
+      "contentId": "chapter-027",
+      "summary": "Book I closes by emphasizing recognition, practice, and reading the teachings for others. The reflection receives the text as guidance through fear and death, including the possibility of awakening after failure.",
+      "keywords": [
+        "Book I conclusion",
+        "liberation by hearing",
+        "reading for others",
+        "recognition"
+      ],
+      "themes": [
+        "compassion",
+        "hope",
+        "spiritual-growth"
+      ],
+      "readingMinutes": 3
+    },
+    "chapter-028": {
+      "contentId": "chapter-028",
+      "summary": "The Sidpa Bardo introduces a desire-body carried toward rebirth by karmic forces. The reflection holds together the mind’s apparent powers, its susceptibility to illusion, and the refuge of devotion.",
+      "keywords": [
+        "Sidpa Bardo",
+        "after-death body",
+        "desire-body",
+        "karmic winds"
+      ],
+      "themes": [
+        "uncertainty",
+        "trust",
+        "surrender"
+      ],
+      "readingMinutes": 3
+    },
+    "chapter-029": {
+      "contentId": "chapter-029",
+      "summary": "Longing for loved ones, stability, and another body shapes the state of becoming. The reflection invites awareness and compassionate refuge amid sorrow, fear, and craving.",
+      "keywords": [
+        "state of becoming",
+        "longing",
+        "loved ones",
+        "rebirth",
+        "nonclinging"
+      ],
+      "themes": [
+        "suffering",
+        "surrender",
+        "compassion"
+      ],
+      "readingMinutes": 3
+    },
+    "chapter-030": {
+      "contentId": "chapter-030",
+      "summary": "The judgement scene is interpreted through the Mirror of Karma and the mind’s own tendencies. Its reflection seeks truth and recognition amid guilt and terrifying symbolic images.",
+      "keywords": [
+        "judgement",
+        "Mirror of Karma",
+        "guilt",
+        "recognition"
+      ],
+      "themes": [
+        "attention",
+        "mercy",
+        "freedom"
+      ],
+      "readingMinutes": 4
+    },
+    "chapter-031": {
+      "contentId": "chapter-031",
+      "summary": "The chapter describes thought, resentment, and attachment as forces shaping the passage toward rebirth. A breathing reflection turns toward trust, devotion, and a compassionate intention.",
+      "keywords": [
+        "influence of thought",
+        "resentment",
+        "attachment",
+        "breathing practice"
+      ],
+      "themes": [
+        "trust",
+        "surrender",
+        "love"
+      ],
+      "readingMinutes": 3
+    },
+    "chapter-032": {
+      "contentId": "chapter-032",
+      "summary": "The lights of the six realms reveal the pull of habitual destinations for consciousness. The explanation and reflection practice recognizing compassion in appearances and releasing fixation on another body.",
+      "keywords": [
+        "six lokas",
+        "six realms",
+        "rebirth",
+        "karmic habit",
+        "Clear Light"
+      ],
+      "themes": [
+        "compassion",
+        "attention",
+        "surrender"
+      ],
+      "readingMinutes": 3
+    },
+    "chapter-033": {
+      "contentId": "chapter-033",
+      "summary": "The closing of the womb-door introduces practices for interrupting attraction, fear, and the search for rebirth. The reflection returns to compassionate refuge instead of mistaking an appearance for safety.",
+      "keywords": [
+        "womb-door",
+        "rebirth-seeking",
+        "attraction",
+        "refuge"
+      ],
+      "themes": [
+        "surrender",
+        "attention",
+        "freedom"
+      ],
+      "readingMinutes": 3
+    },
+    "chapter-034": {
+      "contentId": "chapter-034",
+      "summary": "The first method steadies the mind through a single resolve and the dissolution of form into light. Its reflection turns from desire toward clear awareness and refuge.",
+      "keywords": [
+        "first method",
+        "single resolve",
+        "dissolving forms",
+        "womb-door"
+      ],
+      "themes": [
+        "attention",
+        "perseverance",
+        "surrender"
+      ],
+      "readingMinutes": 4
+    },
+    "chapter-035": {
+      "contentId": "chapter-035",
+      "summary": "The second method transforms the vision of prospective parents into reverence for the Guru and Divine Mother. The reflection redirects desire into devotion and offering.",
+      "keywords": [
+        "second method",
+        "Guru",
+        "Divine Mother",
+        "desire",
+        "reverence"
+      ],
+      "themes": [
+        "humility",
+        "surrender",
+        "prayer"
+      ],
+      "readingMinutes": 2
+    },
+    "chapter-036": {
+      "contentId": "chapter-036",
+      "summary": "The third method identifies attraction and aversion as paired forces that sustain wandering. The breathing reflection practices noticing and releasing both while resting in devotion.",
+      "keywords": [
+        "third method",
+        "attraction",
+        "aversion",
+        "steadiness"
+      ],
+      "themes": [
+        "attention",
+        "surrender",
+        "freedom"
+      ],
+      "readingMinutes": 3
+    },
+    "chapter-037": {
+      "contentId": "chapter-037",
+      "summary": "The fourth method considers appearances as fleeting and dreamlike rather than lasting substance. The reflection loosens fear and grasping through recognition of illusion.",
+      "keywords": [
+        "fourth method",
+        "dreamlike appearances",
+        "illusion",
+        "grasping"
+      ],
+      "themes": [
+        "attention",
+        "surrender",
+        "freedom"
+      ],
+      "readingMinutes": 2
+    },
+    "chapter-038": {
+      "contentId": "chapter-038",
+      "summary": "The fifth method rests in the Clear Light of mind, using the image of water poured into water. The reflection invites ease and recognition instead of forceful concentration.",
+      "keywords": [
+        "fifth method",
+        "water poured into water",
+        "Clear Light",
+        "resting awareness"
+      ],
+      "themes": [
+        "rest",
+        "attention",
+        "freedom"
+      ],
+      "readingMinutes": 2
+    },
+    "chapter-040": {
+      "contentId": "chapter-040",
+      "summary": "If liberation has not been recognized, the teaching turns to choosing conditions of rebirth with awareness. The reflection asks for a life where compassion and wisdom can grow.",
+      "keywords": [
+        "choosing the womb-door",
+        "rebirth conditions",
+        "mindful choice",
+        "compassion"
+      ],
+      "themes": [
+        "hope",
+        "attention",
+        "compassion"
+      ],
+      "readingMinutes": 2
+    },
+    "chapter-041": {
+      "contentId": "chapter-041",
+      "summary": "Visions of possible birthplaces are interpreted as signs of the realms toward which karma is leading. The reflection values conditions for Dharma practice over wealth, beauty, or ease alone.",
+      "keywords": [
+        "premonitory visions",
+        "place of rebirth",
+        "Dharma practice",
+        "discernment"
+      ],
+      "themes": [
+        "attention",
+        "spiritual-growth",
+        "surrender"
+      ],
+      "readingMinutes": 3
+    },
+    "chapter-042": {
+      "contentId": "chapter-042",
+      "summary": "Terrifying visions and apparent refuges are met with recognition, nonclinging, and the visualization of a compassionate protector. The reflection asks for clarity rather than a rushed choice driven by fear.",
+      "keywords": [
+        "tormenting furies",
+        "protector visualization",
+        "Heruka",
+        "Vajrapani",
+        "fear"
+      ],
+      "themes": [
+        "trust",
+        "compassion",
+        "attention"
+      ],
+      "readingMinutes": 3
+    },
+    "chapter-043": {
+      "contentId": "chapter-043",
+      "summary": "The chapter distinguishes aspiration toward a Pure Land from return through womb-birth. The reflection pauses amid karmic pressure to seek discernment, compassion, and a conscious choice.",
+      "keywords": [
+        "supernormal birth",
+        "womb-birth",
+        "Pure Land",
+        "discernment"
+      ],
+      "themes": [
+        "attention",
+        "freedom",
+        "compassion"
+      ],
+      "readingMinutes": 2
+    },
+    "chapter-044": {
+      "contentId": "chapter-044",
+      "summary": "Aspiration toward a Pure Land is expressed through a clear intention and trust in the Buddhas. The reflection imagines arising within a lotus of compassion, ready for awakening.",
+      "keywords": [
+        "Pure Land",
+        "Amitabha",
+        "lotus birth",
+        "aspiration"
+      ],
+      "themes": [
+        "hope",
+        "trust",
+        "compassion"
+      ],
+      "readingMinutes": 3
+    },
+    "chapter-045": {
+      "contentId": "chapter-045",
+      "summary": "Return to human life is approached through discernment and freedom from both attraction and aversion. The reflection dedicates a possible rebirth to compassion, service, and awakening.",
+      "keywords": [
+        "human rebirth",
+        "womb-birth",
+        "impartiality",
+        "service"
+      ],
+      "themes": [
+        "compassion",
+        "surrender",
+        "spiritual-growth"
+      ],
+      "readingMinutes": 3
+    },
+    "chapter-046": {
+      "contentId": "chapter-046",
+      "summary": "The general conclusion returns to repeated opportunities for recognition across the bardos and preparation during life. Its reflection carries hope, remembrance, and compassionate guidance into the approach to death.",
+      "keywords": [
+        "general conclusion",
+        "repeated opportunities",
+        "remembrance",
+        "preparing for death"
+      ],
+      "themes": [
+        "hope",
+        "compassion",
+        "trust"
+      ],
+      "readingMinutes": 3
+    },
+    "invocation": {
+      "contentId": "invocation",
+      "summary": "A prayer invokes Buddhas and Bodhisattvas as compassionate companions for someone passing through death. Repeated petitions ask for refuge, protection, and guidance through the bardo.",
+      "keywords": [
+        "Buddhas and Bodhisattvas",
+        "invocation",
+        "refuge",
+        "care for the dying"
+      ],
+      "themes": [
+        "prayer",
+        "compassion",
+        "community"
+      ],
+      "readingMinutes": 2
+    },
+    "good-wishes-liberation": {
+      "contentId": "good-wishes-liberation",
+      "summary": "These good wishes call on wisdom and compassionate guides amid anger, pride, attachment, jealousy, ignorance, and fear. The closing petitions seek recognition of sounds, lights, and elements within the bardo.",
+      "keywords": [
+        "good wishes",
+        "five wisdoms",
+        "peaceful and wrathful deities",
+        "elements"
+      ],
+      "themes": [
+        "prayer",
+        "compassion",
+        "freedom"
+      ],
+      "readingMinutes": 4
+    },
+    "root-verses": {
+      "contentId": "root-verses",
+      "summary": "The root verses address birth, dreams, meditation, death, reality, and rebirth, followed by a call to practice now. They connect remembrance of the teachings with recognition and release from distraction.",
+      "keywords": [
+        "six bardos",
+        "root verses",
+        "dream practice",
+        "meditation",
+        "urgency"
+      ],
+      "themes": [
+        "prayer",
+        "attention",
+        "perseverance"
+      ],
+      "readingMinutes": 3
+    },
+    "good-wishes-protection": {
+      "contentId": "good-wishes-protection",
+      "summary": "Fourteen petitions seek freedom from fear and karmic confusion, compassionate rebirth, and conditions for awakening. The prayer extends its wishes for protection and happiness to all beings.",
+      "keywords": [
+        "protection prayer",
+        "fear in the bardo",
+        "compassionate rebirth",
+        "all beings"
+      ],
+      "themes": [
+        "prayer",
+        "compassion",
+        "hope"
+      ],
+      "readingMinutes": 3
+    },
+    "colophon": {
+      "contentId": "colophon",
+      "summary": "The colophon dedicates the work’s merit to beings without protection. Its closing blessing wishes refuge, auspiciousness, and the flourishing of goodness.",
+      "keywords": [
+        "colophon",
+        "dedication of merit",
+        "blessing",
+        "refuge"
+      ],
+      "themes": [
+        "prayer",
+        "compassion",
+        "hope"
+      ],
+      "readingMinutes": 1
+    },
+    "epilogue": {
+      "contentId": "epilogue",
+      "summary": "The epilogue carries the bardo teachings into everyday experiences of change and letting go. It closes with a blessing for courage, compassion, and companionship in life and death.",
+      "keywords": [
+        "everyday transitions",
+        "letting go",
+        "final blessing",
+        "compassion"
+      ],
+      "themes": [
+        "hope",
+        "compassion",
+        "surrender"
+      ],
+      "readingMinutes": 2
+    }
+  }
+}

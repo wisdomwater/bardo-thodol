@@ -1,0 +1,2465 @@
+{
+  "schemaVersion": 1,
+  "content": [
+    {
+      "id": "copyright-print",
+      "path": "copyright.md",
+      "type": "copyright",
+      "title": "Copyright (print)",
+      "includeIn": [
+        "pdf",
+        "paperback"
+      ],
+      "searchable": false,
+      "dailyEligible": false
+    },
+    {
+      "id": "copyright-digital",
+      "path": "copyright-epub.md",
+      "type": "copyright",
+      "title": "Copyright (digital)",
+      "includeIn": [
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": false,
+      "dailyEligible": false
+    },
+    {
+      "id": "introduction",
+      "path": "introduction.md",
+      "type": "introduction",
+      "title": "Introduction",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": false
+    },
+    {
+      "id": "chapter-001",
+      "path": "chapters/001a.md",
+      "type": "chapter",
+      "title": "Chapter 1: The Great Doorway",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": true,
+      "readingGroup": "chapter-001",
+      "section": "Book I: The Chikhai and Chönyid Bardos"
+    },
+    {
+      "id": "chapter-001-b",
+      "path": "chapters/001b.md",
+      "type": "chapter",
+      "title": "Chapter 1: The Great Doorway — What It Means",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": false,
+      "dailyEligible": false,
+      "readingGroup": "chapter-001",
+      "section": "Book I: The Chikhai and Chönyid Bardos"
+    },
+    {
+      "id": "chapter-001-c",
+      "path": "chapters/001c.md",
+      "type": "chapter",
+      "title": "Chapter 1: The Great Doorway — Reflection",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": false,
+      "dailyEligible": false,
+      "readingGroup": "chapter-001",
+      "section": "Book I: The Chikhai and Chönyid Bardos"
+    },
+    {
+      "id": "chapter-002",
+      "path": "chapters/002a.md",
+      "type": "chapter",
+      "title": "Chapter 2: The Reading of the Words",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": true,
+      "readingGroup": "chapter-002",
+      "section": "Book I: The Chikhai and Chönyid Bardos"
+    },
+    {
+      "id": "chapter-002-b",
+      "path": "chapters/002b.md",
+      "type": "chapter",
+      "title": "Chapter 2: The Reading of the Words — What It Means",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": false,
+      "dailyEligible": false,
+      "readingGroup": "chapter-002",
+      "section": "Book I: The Chikhai and Chönyid Bardos"
+    },
+    {
+      "id": "chapter-002-c",
+      "path": "chapters/002c.md",
+      "type": "chapter",
+      "title": "Chapter 2: The Reading of the Words — Reflection",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": false,
+      "dailyEligible": false,
+      "readingGroup": "chapter-002",
+      "section": "Book I: The Chikhai and Chönyid Bardos"
+    },
+    {
+      "id": "chapter-003",
+      "path": "chapters/003a.md",
+      "type": "chapter",
+      "title": "Chapter 3: The Signs of Departure",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": true,
+      "readingGroup": "chapter-003",
+      "section": "Book I: The Chikhai and Chönyid Bardos"
+    },
+    {
+      "id": "chapter-003-b",
+      "path": "chapters/003b.md",
+      "type": "chapter",
+      "title": "Chapter 3: The Signs of Departure — What It Means",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": false,
+      "dailyEligible": false,
+      "readingGroup": "chapter-003",
+      "section": "Book I: The Chikhai and Chönyid Bardos"
+    },
+    {
+      "id": "chapter-003-c",
+      "path": "chapters/003c.md",
+      "type": "chapter",
+      "title": "Chapter 3: The Signs of Departure — Reflection",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": false,
+      "dailyEligible": false,
+      "readingGroup": "chapter-003",
+      "section": "Book I: The Chikhai and Chönyid Bardos"
+    },
+    {
+      "id": "chapter-004",
+      "path": "chapters/004a.md",
+      "type": "chapter",
+      "title": "Chapter 4: The Clear Light Appears",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": true,
+      "readingGroup": "chapter-004",
+      "section": "Book I: The Chikhai and Chönyid Bardos"
+    },
+    {
+      "id": "chapter-004-b",
+      "path": "chapters/004b.md",
+      "type": "chapter",
+      "title": "Chapter 4: The Clear Light Appears — What It Means",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": false,
+      "dailyEligible": false,
+      "readingGroup": "chapter-004",
+      "section": "Book I: The Chikhai and Chönyid Bardos"
+    },
+    {
+      "id": "chapter-004-c",
+      "path": "chapters/004c.md",
+      "type": "chapter",
+      "title": "Chapter 4: The Clear Light Appears — Reflection",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": false,
+      "dailyEligible": false,
+      "readingGroup": "chapter-004",
+      "section": "Book I: The Chikhai and Chönyid Bardos"
+    },
+    {
+      "id": "chapter-005",
+      "path": "chapters/005a.md",
+      "type": "chapter",
+      "title": "Chapter 5: The Radiance of Compassion",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": true,
+      "readingGroup": "chapter-005",
+      "section": "Book I: The Chikhai and Chönyid Bardos"
+    },
+    {
+      "id": "chapter-005-b",
+      "path": "chapters/005b.md",
+      "type": "chapter",
+      "title": "Chapter 5: The Radiance of Compassion — What It Means",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": false,
+      "dailyEligible": false,
+      "readingGroup": "chapter-005",
+      "section": "Book I: The Chikhai and Chönyid Bardos"
+    },
+    {
+      "id": "chapter-005-c",
+      "path": "chapters/005c.md",
+      "type": "chapter",
+      "title": "Chapter 5: The Radiance of Compassion — Reflection",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": false,
+      "dailyEligible": false,
+      "readingGroup": "chapter-005",
+      "section": "Book I: The Chikhai and Chönyid Bardos"
+    },
+    {
+      "id": "chapter-006",
+      "path": "chapters/006a.md",
+      "type": "chapter",
+      "title": "Chapter 6: The Secondary Light",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": true,
+      "readingGroup": "chapter-006",
+      "section": "Book I: The Chikhai and Chönyid Bardos"
+    },
+    {
+      "id": "chapter-006-b",
+      "path": "chapters/006b.md",
+      "type": "chapter",
+      "title": "Chapter 6: The Secondary Light — What It Means",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": false,
+      "dailyEligible": false,
+      "readingGroup": "chapter-006",
+      "section": "Book I: The Chikhai and Chönyid Bardos"
+    },
+    {
+      "id": "chapter-006-c",
+      "path": "chapters/006c.md",
+      "type": "chapter",
+      "title": "Chapter 6: The Secondary Light — Reflection",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": false,
+      "dailyEligible": false,
+      "readingGroup": "chapter-006",
+      "section": "Book I: The Chikhai and Chönyid Bardos"
+    },
+    {
+      "id": "chapter-007",
+      "path": "chapters/007a.md",
+      "type": "chapter",
+      "title": "Chapter 7: The Gentle Reminder",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": true,
+      "readingGroup": "chapter-007",
+      "section": "Book I: The Chikhai and Chönyid Bardos"
+    },
+    {
+      "id": "chapter-007-b",
+      "path": "chapters/007b.md",
+      "type": "chapter",
+      "title": "Chapter 7: The Gentle Reminder — What It Means",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": false,
+      "dailyEligible": false,
+      "readingGroup": "chapter-007",
+      "section": "Book I: The Chikhai and Chönyid Bardos"
+    },
+    {
+      "id": "chapter-007-c",
+      "path": "chapters/007c.md",
+      "type": "chapter",
+      "title": "Chapter 7: The Gentle Reminder — Reflection",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": false,
+      "dailyEligible": false,
+      "readingGroup": "chapter-007",
+      "section": "Book I: The Chikhai and Chönyid Bardos"
+    },
+    {
+      "id": "chapter-008",
+      "path": "chapters/008a.md",
+      "type": "chapter",
+      "title": "Chapter 8: Entering the Bardo of Reality",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": true,
+      "readingGroup": "chapter-008",
+      "section": "Book I: The Chikhai and Chönyid Bardos"
+    },
+    {
+      "id": "chapter-008-b",
+      "path": "chapters/008b.md",
+      "type": "chapter",
+      "title": "Chapter 8: Entering the Bardo of Reality — What It Means",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": false,
+      "dailyEligible": false,
+      "readingGroup": "chapter-008",
+      "section": "Book I: The Chikhai and Chönyid Bardos"
+    },
+    {
+      "id": "chapter-008-c",
+      "path": "chapters/008c.md",
+      "type": "chapter",
+      "title": "Chapter 8: Entering the Bardo of Reality — Reflection",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": false,
+      "dailyEligible": false,
+      "readingGroup": "chapter-008",
+      "section": "Book I: The Chikhai and Chönyid Bardos"
+    },
+    {
+      "id": "chapter-009",
+      "path": "chapters/009a.md",
+      "type": "chapter",
+      "title": "Chapter 9: Sounds, Lights, and Rays",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": true,
+      "readingGroup": "chapter-009",
+      "section": "Book I: The Chikhai and Chönyid Bardos"
+    },
+    {
+      "id": "chapter-009-b",
+      "path": "chapters/009b.md",
+      "type": "chapter",
+      "title": "Chapter 9: Sounds, Lights, and Rays — What It Means",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": false,
+      "dailyEligible": false,
+      "readingGroup": "chapter-009",
+      "section": "Book I: The Chikhai and Chönyid Bardos"
+    },
+    {
+      "id": "chapter-009-c",
+      "path": "chapters/009c.md",
+      "type": "chapter",
+      "title": "Chapter 9: Sounds, Lights, and Rays — Reflection",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": false,
+      "dailyEligible": false,
+      "readingGroup": "chapter-009",
+      "section": "Book I: The Chikhai and Chönyid Bardos"
+    },
+    {
+      "id": "chapter-010",
+      "path": "chapters/010a.md",
+      "type": "chapter",
+      "title": "Chapter 10: The First Day — The Blue Light of Vairochana",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": true,
+      "readingGroup": "chapter-010",
+      "section": "Book I: The Chikhai and Chönyid Bardos"
+    },
+    {
+      "id": "chapter-010-b",
+      "path": "chapters/010b.md",
+      "type": "chapter",
+      "title": "Chapter 10: The First Day — The Blue Light of Vairochana — What It Means",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": false,
+      "dailyEligible": false,
+      "readingGroup": "chapter-010",
+      "section": "Book I: The Chikhai and Chönyid Bardos"
+    },
+    {
+      "id": "chapter-010-c",
+      "path": "chapters/010c.md",
+      "type": "chapter",
+      "title": "Chapter 10: The First Day — The Blue Light of Vairochana — Reflection",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": false,
+      "dailyEligible": false,
+      "readingGroup": "chapter-010",
+      "section": "Book I: The Chikhai and Chönyid Bardos"
+    },
+    {
+      "id": "chapter-011",
+      "path": "chapters/011a.md",
+      "type": "chapter",
+      "title": "Chapter 11: The Second Day — The White Light of Vajrasattva",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": true,
+      "readingGroup": "chapter-011",
+      "section": "Book I: The Chikhai and Chönyid Bardos"
+    },
+    {
+      "id": "chapter-011-b",
+      "path": "chapters/011b.md",
+      "type": "chapter",
+      "title": "Chapter 11: The Second Day — The White Light of Vajrasattva — What It Means",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": false,
+      "dailyEligible": false,
+      "readingGroup": "chapter-011",
+      "section": "Book I: The Chikhai and Chönyid Bardos"
+    },
+    {
+      "id": "chapter-011-c",
+      "path": "chapters/011c.md",
+      "type": "chapter",
+      "title": "Chapter 11: The Second Day — The White Light of Vajrasattva — Reflection",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": false,
+      "dailyEligible": false,
+      "readingGroup": "chapter-011",
+      "section": "Book I: The Chikhai and Chönyid Bardos"
+    },
+    {
+      "id": "chapter-012",
+      "path": "chapters/012a.md",
+      "type": "chapter",
+      "title": "Chapter 12: The Third Day — The Yellow Light of Ratna-Sambhava",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": true,
+      "readingGroup": "chapter-012",
+      "section": "Book I: The Chikhai and Chönyid Bardos"
+    },
+    {
+      "id": "chapter-012-b",
+      "path": "chapters/012b.md",
+      "type": "chapter",
+      "title": "Chapter 12: The Third Day — The Yellow Light of Ratna-Sambhava — What It Means",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": false,
+      "dailyEligible": false,
+      "readingGroup": "chapter-012",
+      "section": "Book I: The Chikhai and Chönyid Bardos"
+    },
+    {
+      "id": "chapter-012-c",
+      "path": "chapters/012c.md",
+      "type": "chapter",
+      "title": "Chapter 12: The Third Day — The Yellow Light of Ratna-Sambhava — Reflection",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": false,
+      "dailyEligible": false,
+      "readingGroup": "chapter-012",
+      "section": "Book I: The Chikhai and Chönyid Bardos"
+    },
+    {
+      "id": "chapter-013",
+      "path": "chapters/013a.md",
+      "type": "chapter",
+      "title": "Chapter 13: The Fourth Day — The Red Light of Amitābha",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": true,
+      "readingGroup": "chapter-013",
+      "section": "Book I: The Chikhai and Chönyid Bardos"
+    },
+    {
+      "id": "chapter-013-b",
+      "path": "chapters/013b.md",
+      "type": "chapter",
+      "title": "Chapter 13: The Fourth Day — The Red Light of Amitābha — What It Means",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": false,
+      "dailyEligible": false,
+      "readingGroup": "chapter-013",
+      "section": "Book I: The Chikhai and Chönyid Bardos"
+    },
+    {
+      "id": "chapter-013-c",
+      "path": "chapters/013c.md",
+      "type": "chapter",
+      "title": "Chapter 13: The Fourth Day — The Red Light of Amitābha — Reflection",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": false,
+      "dailyEligible": false,
+      "readingGroup": "chapter-013",
+      "section": "Book I: The Chikhai and Chönyid Bardos"
+    },
+    {
+      "id": "chapter-014",
+      "path": "chapters/014a.md",
+      "type": "chapter",
+      "title": "Chapter 14: The Fifth Day — The Green Light of Amogha-Siddhi",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": true,
+      "readingGroup": "chapter-014",
+      "section": "Book I: The Chikhai and Chönyid Bardos"
+    },
+    {
+      "id": "chapter-014-b",
+      "path": "chapters/014b.md",
+      "type": "chapter",
+      "title": "Chapter 14: The Fifth Day — The Green Light of Amogha-Siddhi — What It Means",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": false,
+      "dailyEligible": false,
+      "readingGroup": "chapter-014",
+      "section": "Book I: The Chikhai and Chönyid Bardos"
+    },
+    {
+      "id": "chapter-014-c",
+      "path": "chapters/014c.md",
+      "type": "chapter",
+      "title": "Chapter 14: The Fifth Day — The Green Light of Amogha-Siddhi — Reflection",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": false,
+      "dailyEligible": false,
+      "readingGroup": "chapter-014",
+      "section": "Book I: The Chikhai and Chönyid Bardos"
+    },
+    {
+      "id": "chapter-015",
+      "path": "chapters/015a.md",
+      "type": "chapter",
+      "title": "Chapter 15: The Sixth Day — The Union of All Lights",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": true,
+      "readingGroup": "chapter-015",
+      "section": "Book I: The Chikhai and Chönyid Bardos"
+    },
+    {
+      "id": "chapter-015-b",
+      "path": "chapters/015b.md",
+      "type": "chapter",
+      "title": "Chapter 15: The Sixth Day — The Union of All Lights — What It Means",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": false,
+      "dailyEligible": false,
+      "readingGroup": "chapter-015",
+      "section": "Book I: The Chikhai and Chönyid Bardos"
+    },
+    {
+      "id": "chapter-015-c",
+      "path": "chapters/015c.md",
+      "type": "chapter",
+      "title": "Chapter 15: The Sixth Day — The Union of All Lights — Reflection",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": false,
+      "dailyEligible": false,
+      "readingGroup": "chapter-015",
+      "section": "Book I: The Chikhai and Chönyid Bardos"
+    },
+    {
+      "id": "chapter-016",
+      "path": "chapters/016a.md",
+      "type": "chapter",
+      "title": "Chapter 16: The Seventh Day — The Four Wisdom Lights",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": true,
+      "readingGroup": "chapter-016",
+      "section": "Book I: The Chikhai and Chönyid Bardos"
+    },
+    {
+      "id": "chapter-016-b",
+      "path": "chapters/016b.md",
+      "type": "chapter",
+      "title": "Chapter 16: The Seventh Day — The Four Wisdom Lights — What It Means",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": false,
+      "dailyEligible": false,
+      "readingGroup": "chapter-016",
+      "section": "Book I: The Chikhai and Chönyid Bardos"
+    },
+    {
+      "id": "chapter-016-c",
+      "path": "chapters/016c.md",
+      "type": "chapter",
+      "title": "Chapter 16: The Seventh Day — The Four Wisdom Lights — Reflection",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": false,
+      "dailyEligible": false,
+      "readingGroup": "chapter-016",
+      "section": "Book I: The Chikhai and Chönyid Bardos"
+    },
+    {
+      "id": "chapter-017",
+      "path": "chapters/017a.md",
+      "type": "chapter",
+      "title": "Chapter 17: The Seventh Day — The Circle of Knowledge-Holders",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": true,
+      "readingGroup": "chapter-017",
+      "section": "Book I: The Chikhai and Chönyid Bardos"
+    },
+    {
+      "id": "chapter-017-b",
+      "path": "chapters/017b.md",
+      "type": "chapter",
+      "title": "Chapter 17: The Seventh Day — The Circle of Knowledge-Holders — What It Means",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": false,
+      "dailyEligible": false,
+      "readingGroup": "chapter-017",
+      "section": "Book I: The Chikhai and Chönyid Bardos"
+    },
+    {
+      "id": "chapter-017-c",
+      "path": "chapters/017c.md",
+      "type": "chapter",
+      "title": "Chapter 17: The Seventh Day — The Circle of Knowledge-Holders — Reflection",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": false,
+      "dailyEligible": false,
+      "readingGroup": "chapter-017",
+      "section": "Book I: The Chikhai and Chönyid Bardos"
+    },
+    {
+      "id": "chapter-018",
+      "path": "chapters/018a.md",
+      "type": "chapter",
+      "title": "Chapter 18: Introduction to the Wrathful Deities",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": true,
+      "readingGroup": "chapter-018",
+      "section": "Book I: The Chikhai and Chönyid Bardos"
+    },
+    {
+      "id": "chapter-018-b",
+      "path": "chapters/018b.md",
+      "type": "chapter",
+      "title": "Chapter 18: Introduction to the Wrathful Deities — What It Means",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": false,
+      "dailyEligible": false,
+      "readingGroup": "chapter-018",
+      "section": "Book I: The Chikhai and Chönyid Bardos"
+    },
+    {
+      "id": "chapter-018-c",
+      "path": "chapters/018c.md",
+      "type": "chapter",
+      "title": "Chapter 18: Introduction to the Wrathful Deities — Reflection",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": false,
+      "dailyEligible": false,
+      "readingGroup": "chapter-018",
+      "section": "Book I: The Chikhai and Chönyid Bardos"
+    },
+    {
+      "id": "chapter-019",
+      "path": "chapters/019a.md",
+      "type": "chapter",
+      "title": "Chapter 19: The Eighth Day — The Dawning of Heruka",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": true,
+      "readingGroup": "chapter-019",
+      "section": "Book I: The Chikhai and Chönyid Bardos"
+    },
+    {
+      "id": "chapter-019-b",
+      "path": "chapters/019b.md",
+      "type": "chapter",
+      "title": "Chapter 19: The Eighth Day — The Dawning of Heruka — What It Means",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": false,
+      "dailyEligible": false,
+      "readingGroup": "chapter-019",
+      "section": "Book I: The Chikhai and Chönyid Bardos"
+    },
+    {
+      "id": "chapter-019-c",
+      "path": "chapters/019c.md",
+      "type": "chapter",
+      "title": "Chapter 19: The Eighth Day — The Dawning of Heruka — Reflection",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": false,
+      "dailyEligible": false,
+      "readingGroup": "chapter-019",
+      "section": "Book I: The Chikhai and Chönyid Bardos"
+    },
+    {
+      "id": "chapter-020",
+      "path": "chapters/020a.md",
+      "type": "chapter",
+      "title": "Chapter 20: The Ninth Day — Vajra-Heruka Appears",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": true,
+      "readingGroup": "chapter-020",
+      "section": "Book I: The Chikhai and Chönyid Bardos"
+    },
+    {
+      "id": "chapter-020-b",
+      "path": "chapters/020b.md",
+      "type": "chapter",
+      "title": "Chapter 20: The Ninth Day — Vajra-Heruka Appears — What It Means",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": false,
+      "dailyEligible": false,
+      "readingGroup": "chapter-020",
+      "section": "Book I: The Chikhai and Chönyid Bardos"
+    },
+    {
+      "id": "chapter-020-c",
+      "path": "chapters/020c.md",
+      "type": "chapter",
+      "title": "Chapter 20: The Ninth Day — Vajra-Heruka Appears — Reflection",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": false,
+      "dailyEligible": false,
+      "readingGroup": "chapter-020",
+      "section": "Book I: The Chikhai and Chönyid Bardos"
+    },
+    {
+      "id": "chapter-021",
+      "path": "chapters/021a.md",
+      "type": "chapter",
+      "title": "Chapter 21: The Tenth Day — Ratna-Heruka Appears",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": true,
+      "readingGroup": "chapter-021",
+      "section": "Book I: The Chikhai and Chönyid Bardos"
+    },
+    {
+      "id": "chapter-021-b",
+      "path": "chapters/021b.md",
+      "type": "chapter",
+      "title": "Chapter 21: The Tenth Day — Ratna-Heruka Appears — What It Means",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": false,
+      "dailyEligible": false,
+      "readingGroup": "chapter-021",
+      "section": "Book I: The Chikhai and Chönyid Bardos"
+    },
+    {
+      "id": "chapter-021-c",
+      "path": "chapters/021c.md",
+      "type": "chapter",
+      "title": "Chapter 21: The Tenth Day — Ratna-Heruka Appears — Reflection",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": false,
+      "dailyEligible": false,
+      "readingGroup": "chapter-021",
+      "section": "Book I: The Chikhai and Chönyid Bardos"
+    },
+    {
+      "id": "chapter-022",
+      "path": "chapters/022a.md",
+      "type": "chapter",
+      "title": "Chapter 22: The Eleventh Day — Padma-Heruka Appears",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": true,
+      "readingGroup": "chapter-022",
+      "section": "Book I: The Chikhai and Chönyid Bardos"
+    },
+    {
+      "id": "chapter-022-b",
+      "path": "chapters/022b.md",
+      "type": "chapter",
+      "title": "Chapter 22: The Eleventh Day — Padma-Heruka Appears — What It Means",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": false,
+      "dailyEligible": false,
+      "readingGroup": "chapter-022",
+      "section": "Book I: The Chikhai and Chönyid Bardos"
+    },
+    {
+      "id": "chapter-022-c",
+      "path": "chapters/022c.md",
+      "type": "chapter",
+      "title": "Chapter 22: The Eleventh Day — Padma-Heruka Appears — Reflection",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": false,
+      "dailyEligible": false,
+      "readingGroup": "chapter-022",
+      "section": "Book I: The Chikhai and Chönyid Bardos"
+    },
+    {
+      "id": "chapter-023",
+      "path": "chapters/023a.md",
+      "type": "chapter",
+      "title": "Chapter 23: The Twelfth Day — Karma-Heruka Appears",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": true,
+      "readingGroup": "chapter-023",
+      "section": "Book I: The Chikhai and Chönyid Bardos"
+    },
+    {
+      "id": "chapter-023-b",
+      "path": "chapters/023b.md",
+      "type": "chapter",
+      "title": "Chapter 23: The Twelfth Day — Karma-Heruka Appears — What It Means",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": false,
+      "dailyEligible": false,
+      "readingGroup": "chapter-023",
+      "section": "Book I: The Chikhai and Chönyid Bardos"
+    },
+    {
+      "id": "chapter-023-c",
+      "path": "chapters/023c.md",
+      "type": "chapter",
+      "title": "Chapter 23: The Twelfth Day — Karma-Heruka Appears — Reflection",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": false,
+      "dailyEligible": false,
+      "readingGroup": "chapter-023",
+      "section": "Book I: The Chikhai and Chönyid Bardos"
+    },
+    {
+      "id": "chapter-024",
+      "path": "chapters/024a.md",
+      "type": "chapter",
+      "title": "Chapter 24: The Thirteenth Day — The Kerimas and Htamenmas",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": true,
+      "readingGroup": "chapter-024",
+      "section": "Book I: The Chikhai and Chönyid Bardos"
+    },
+    {
+      "id": "chapter-024-b",
+      "path": "chapters/024b.md",
+      "type": "chapter",
+      "title": "Chapter 24: The Thirteenth Day — The Kerimas and Htamenmas — What It Means",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": false,
+      "dailyEligible": false,
+      "readingGroup": "chapter-024",
+      "section": "Book I: The Chikhai and Chönyid Bardos"
+    },
+    {
+      "id": "chapter-024-c",
+      "path": "chapters/024c.md",
+      "type": "chapter",
+      "title": "Chapter 24: The Thirteenth Day — The Kerimas and Htamenmas — Reflection",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": false,
+      "dailyEligible": false,
+      "readingGroup": "chapter-024",
+      "section": "Book I: The Chikhai and Chönyid Bardos"
+    },
+    {
+      "id": "chapter-025",
+      "path": "chapters/025a.md",
+      "type": "chapter",
+      "title": "Chapter 25: The Fourteenth Day — The Wrathful Goddesses",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": true,
+      "readingGroup": "chapter-025",
+      "section": "Book I: The Chikhai and Chönyid Bardos"
+    },
+    {
+      "id": "chapter-025-b",
+      "path": "chapters/025b.md",
+      "type": "chapter",
+      "title": "Chapter 25: The Fourteenth Day — The Wrathful Goddesses — What It Means",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": false,
+      "dailyEligible": false,
+      "readingGroup": "chapter-025",
+      "section": "Book I: The Chikhai and Chönyid Bardos"
+    },
+    {
+      "id": "chapter-025-c",
+      "path": "chapters/025c.md",
+      "type": "chapter",
+      "title": "Chapter 25: The Fourteenth Day — The Wrathful Goddesses — Reflection",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": false,
+      "dailyEligible": false,
+      "readingGroup": "chapter-025",
+      "section": "Book I: The Chikhai and Chönyid Bardos"
+    },
+    {
+      "id": "chapter-026",
+      "path": "chapters/026a.md",
+      "type": "chapter",
+      "title": "Chapter 26: The Lord of Death and the Final Wrathful Vision",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": true,
+      "readingGroup": "chapter-026",
+      "section": "Book I: The Chikhai and Chönyid Bardos"
+    },
+    {
+      "id": "chapter-026-b",
+      "path": "chapters/026b.md",
+      "type": "chapter",
+      "title": "Chapter 26: The Lord of Death and the Final Wrathful Vision — What It Means",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": false,
+      "dailyEligible": false,
+      "readingGroup": "chapter-026",
+      "section": "Book I: The Chikhai and Chönyid Bardos"
+    },
+    {
+      "id": "chapter-026-c",
+      "path": "chapters/026c.md",
+      "type": "chapter",
+      "title": "Chapter 26: The Lord of Death and the Final Wrathful Vision — Reflection",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": false,
+      "dailyEligible": false,
+      "readingGroup": "chapter-026",
+      "section": "Book I: The Chikhai and Chönyid Bardos"
+    },
+    {
+      "id": "chapter-027",
+      "path": "chapters/027a.md",
+      "type": "chapter",
+      "title": "Chapter 27: Conclusion - The Power of the Bardo Teachings",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": true,
+      "readingGroup": "chapter-027",
+      "section": "Book I: The Chikhai and Chönyid Bardos"
+    },
+    {
+      "id": "chapter-027-b",
+      "path": "chapters/027b.md",
+      "type": "chapter",
+      "title": "Chapter 27: Conclusion - The Power of the Bardo Teachings — What It Means",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": false,
+      "dailyEligible": false,
+      "readingGroup": "chapter-027",
+      "section": "Book I: The Chikhai and Chönyid Bardos"
+    },
+    {
+      "id": "chapter-027-c",
+      "path": "chapters/027c.md",
+      "type": "chapter",
+      "title": "Chapter 27: Conclusion - The Power of the Bardo Teachings — Reflection",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": false,
+      "dailyEligible": false,
+      "readingGroup": "chapter-027",
+      "section": "Book I: The Chikhai and Chönyid Bardos"
+    },
+    {
+      "id": "book-ii-heading",
+      "path": "chapters/027z.md",
+      "type": "chapter",
+      "title": "Book II: The Sidpa Bardo – The State of Becoming",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": false,
+      "dailyEligible": false,
+      "section": "Book II: The Sidpa Bardo"
+    },
+    {
+      "id": "chapter-028",
+      "path": "chapters/028a.md",
+      "type": "chapter",
+      "title": "Chapter 28: The After-Death Body",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": true,
+      "readingGroup": "chapter-028",
+      "section": "Book II: The Sidpa Bardo"
+    },
+    {
+      "id": "chapter-028-b",
+      "path": "chapters/028b.md",
+      "type": "chapter",
+      "title": "Chapter 28: The After-Death Body — What It Means",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": false,
+      "dailyEligible": false,
+      "readingGroup": "chapter-028",
+      "section": "Book II: The Sidpa Bardo"
+    },
+    {
+      "id": "chapter-028-c",
+      "path": "chapters/028c.md",
+      "type": "chapter",
+      "title": "Chapter 28: The After-Death Body — Reflection",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": false,
+      "dailyEligible": false,
+      "readingGroup": "chapter-028",
+      "section": "Book II: The Sidpa Bardo"
+    },
+    {
+      "id": "chapter-029",
+      "path": "chapters/029a.md",
+      "type": "chapter",
+      "title": "Chapter 29: The Sidpa Bardo – Characteristics of Existence",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": true,
+      "readingGroup": "chapter-029",
+      "section": "Book II: The Sidpa Bardo"
+    },
+    {
+      "id": "chapter-029-b",
+      "path": "chapters/029b.md",
+      "type": "chapter",
+      "title": "Chapter 29: The Sidpa Bardo – Characteristics of Existence — What It Means",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": false,
+      "dailyEligible": false,
+      "readingGroup": "chapter-029",
+      "section": "Book II: The Sidpa Bardo"
+    },
+    {
+      "id": "chapter-029-c",
+      "path": "chapters/029c.md",
+      "type": "chapter",
+      "title": "Chapter 29: The Sidpa Bardo – Characteristics of Existence — Reflection",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": false,
+      "dailyEligible": false,
+      "readingGroup": "chapter-029",
+      "section": "Book II: The Sidpa Bardo"
+    },
+    {
+      "id": "chapter-030",
+      "path": "chapters/030a.md",
+      "type": "chapter",
+      "title": "Chapter 30: The Judgement",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": true,
+      "readingGroup": "chapter-030",
+      "section": "Book II: The Sidpa Bardo"
+    },
+    {
+      "id": "chapter-030-b",
+      "path": "chapters/030b.md",
+      "type": "chapter",
+      "title": "Chapter 30: The Judgement — What It Means",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": false,
+      "dailyEligible": false,
+      "readingGroup": "chapter-030",
+      "section": "Book II: The Sidpa Bardo"
+    },
+    {
+      "id": "chapter-030-c",
+      "path": "chapters/030c.md",
+      "type": "chapter",
+      "title": "Chapter 30: The Judgement — Reflection",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": false,
+      "dailyEligible": false,
+      "readingGroup": "chapter-030",
+      "section": "Book II: The Sidpa Bardo"
+    },
+    {
+      "id": "chapter-031",
+      "path": "chapters/031a.md",
+      "type": "chapter",
+      "title": "Chapter 31: The All-Determining Influence of Thought",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": true,
+      "readingGroup": "chapter-031",
+      "section": "Book II: The Sidpa Bardo"
+    },
+    {
+      "id": "chapter-031-b",
+      "path": "chapters/031b.md",
+      "type": "chapter",
+      "title": "Chapter 31: The All-Determining Influence of Thought — What It Means",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": false,
+      "dailyEligible": false,
+      "readingGroup": "chapter-031",
+      "section": "Book II: The Sidpa Bardo"
+    },
+    {
+      "id": "chapter-031-c",
+      "path": "chapters/031c.md",
+      "type": "chapter",
+      "title": "Chapter 31: The All-Determining Influence of Thought — Reflection",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": false,
+      "dailyEligible": false,
+      "readingGroup": "chapter-031",
+      "section": "Book II: The Sidpa Bardo"
+    },
+    {
+      "id": "chapter-032",
+      "path": "chapters/032a.md",
+      "type": "chapter",
+      "title": "Chapter 32: The Dawning of the Lights of the Six Lokas",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": true,
+      "readingGroup": "chapter-032",
+      "section": "Book II: The Sidpa Bardo"
+    },
+    {
+      "id": "chapter-032-b",
+      "path": "chapters/032b.md",
+      "type": "chapter",
+      "title": "Chapter 32: The Dawning of the Lights of the Six Lokas — What It Means",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": false,
+      "dailyEligible": false,
+      "readingGroup": "chapter-032",
+      "section": "Book II: The Sidpa Bardo"
+    },
+    {
+      "id": "chapter-032-c",
+      "path": "chapters/032c.md",
+      "type": "chapter",
+      "title": "Chapter 32: The Dawning of the Lights of the Six Lokas — Reflection",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": false,
+      "dailyEligible": false,
+      "readingGroup": "chapter-032",
+      "section": "Book II: The Sidpa Bardo"
+    },
+    {
+      "id": "chapter-033",
+      "path": "chapters/033a.md",
+      "type": "chapter",
+      "title": "Chapter 33: The Closing of the Door of the Womb",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": true,
+      "readingGroup": "chapter-033",
+      "section": "Book II: The Sidpa Bardo"
+    },
+    {
+      "id": "chapter-033-b",
+      "path": "chapters/033b.md",
+      "type": "chapter",
+      "title": "Chapter 33: The Closing of the Door of the Womb — What It Means",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": false,
+      "dailyEligible": false,
+      "readingGroup": "chapter-033",
+      "section": "Book II: The Sidpa Bardo"
+    },
+    {
+      "id": "chapter-033-c",
+      "path": "chapters/033c.md",
+      "type": "chapter",
+      "title": "Chapter 33: The Closing of the Door of the Womb — Reflection",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": false,
+      "dailyEligible": false,
+      "readingGroup": "chapter-033",
+      "section": "Book II: The Sidpa Bardo"
+    },
+    {
+      "id": "chapter-034",
+      "path": "chapters/034a.md",
+      "type": "chapter",
+      "title": "Chapter 34: The First Method of Closing the Womb-Door",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": true,
+      "readingGroup": "chapter-034",
+      "section": "Book II: The Sidpa Bardo"
+    },
+    {
+      "id": "chapter-034-b",
+      "path": "chapters/034b.md",
+      "type": "chapter",
+      "title": "Chapter 34: The First Method of Closing the Womb-Door — What It Means",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": false,
+      "dailyEligible": false,
+      "readingGroup": "chapter-034",
+      "section": "Book II: The Sidpa Bardo"
+    },
+    {
+      "id": "chapter-034-c",
+      "path": "chapters/034c.md",
+      "type": "chapter",
+      "title": "Chapter 34: The First Method of Closing the Womb-Door — Reflection",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": false,
+      "dailyEligible": false,
+      "readingGroup": "chapter-034",
+      "section": "Book II: The Sidpa Bardo"
+    },
+    {
+      "id": "chapter-035",
+      "path": "chapters/035a.md",
+      "type": "chapter",
+      "title": "Chapter 35: The Second Method of Closing the Womb-Door",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": true,
+      "readingGroup": "chapter-035",
+      "section": "Book II: The Sidpa Bardo"
+    },
+    {
+      "id": "chapter-035-b",
+      "path": "chapters/035b.md",
+      "type": "chapter",
+      "title": "Chapter 35: The Second Method of Closing the Womb-Door — What It Means",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": false,
+      "dailyEligible": false,
+      "readingGroup": "chapter-035",
+      "section": "Book II: The Sidpa Bardo"
+    },
+    {
+      "id": "chapter-035-c",
+      "path": "chapters/035c.md",
+      "type": "chapter",
+      "title": "Chapter 35: The Second Method of Closing the Womb-Door — Reflection",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": false,
+      "dailyEligible": false,
+      "readingGroup": "chapter-035",
+      "section": "Book II: The Sidpa Bardo"
+    },
+    {
+      "id": "chapter-036",
+      "path": "chapters/036a.md",
+      "type": "chapter",
+      "title": "Chapter 36: The Third Method of Closing the Womb-Door",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": true,
+      "readingGroup": "chapter-036",
+      "section": "Book II: The Sidpa Bardo"
+    },
+    {
+      "id": "chapter-036-b",
+      "path": "chapters/036b.md",
+      "type": "chapter",
+      "title": "Chapter 36: The Third Method of Closing the Womb-Door — What It Means",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": false,
+      "dailyEligible": false,
+      "readingGroup": "chapter-036",
+      "section": "Book II: The Sidpa Bardo"
+    },
+    {
+      "id": "chapter-036-c",
+      "path": "chapters/036c.md",
+      "type": "chapter",
+      "title": "Chapter 36: The Third Method of Closing the Womb-Door — Reflection",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": false,
+      "dailyEligible": false,
+      "readingGroup": "chapter-036",
+      "section": "Book II: The Sidpa Bardo"
+    },
+    {
+      "id": "chapter-037",
+      "path": "chapters/037a.md",
+      "type": "chapter",
+      "title": "Chapter 37: The Fourth Method of Closing the Womb-Door",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": true,
+      "readingGroup": "chapter-037",
+      "section": "Book II: The Sidpa Bardo"
+    },
+    {
+      "id": "chapter-037-b",
+      "path": "chapters/037b.md",
+      "type": "chapter",
+      "title": "Chapter 37: The Fourth Method of Closing the Womb-Door — What It Means",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": false,
+      "dailyEligible": false,
+      "readingGroup": "chapter-037",
+      "section": "Book II: The Sidpa Bardo"
+    },
+    {
+      "id": "chapter-037-c",
+      "path": "chapters/037c.md",
+      "type": "chapter",
+      "title": "Chapter 37: The Fourth Method of Closing the Womb-Door — Reflection",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": false,
+      "dailyEligible": false,
+      "readingGroup": "chapter-037",
+      "section": "Book II: The Sidpa Bardo"
+    },
+    {
+      "id": "chapter-038",
+      "path": "chapters/038a.md",
+      "type": "chapter",
+      "title": "Chapter 38: The Fifth Method of Closing the Womb-Door",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": true,
+      "readingGroup": "chapter-038",
+      "section": "Book II: The Sidpa Bardo"
+    },
+    {
+      "id": "chapter-038-b",
+      "path": "chapters/038b.md",
+      "type": "chapter",
+      "title": "Chapter 38: The Fifth Method of Closing the Womb-Door — What It Means",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": false,
+      "dailyEligible": false,
+      "readingGroup": "chapter-038",
+      "section": "Book II: The Sidpa Bardo"
+    },
+    {
+      "id": "chapter-038-c",
+      "path": "chapters/038c.md",
+      "type": "chapter",
+      "title": "Chapter 38: The Fifth Method of Closing the Womb-Door — Reflection",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": false,
+      "dailyEligible": false,
+      "readingGroup": "chapter-038",
+      "section": "Book II: The Sidpa Bardo"
+    },
+    {
+      "id": "chapter-040",
+      "path": "chapters/040a.md",
+      "type": "chapter",
+      "title": "Chapter 40: The Choosing of the Womb-Door",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": true,
+      "readingGroup": "chapter-040",
+      "section": "Book II: The Sidpa Bardo"
+    },
+    {
+      "id": "chapter-040-b",
+      "path": "chapters/040b.md",
+      "type": "chapter",
+      "title": "Chapter 40: The Choosing of the Womb-Door — What It Means",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": false,
+      "dailyEligible": false,
+      "readingGroup": "chapter-040",
+      "section": "Book II: The Sidpa Bardo"
+    },
+    {
+      "id": "chapter-040-c",
+      "path": "chapters/040c.md",
+      "type": "chapter",
+      "title": "Chapter 40: The Choosing of the Womb-Door — Reflection",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": false,
+      "dailyEligible": false,
+      "readingGroup": "chapter-040",
+      "section": "Book II: The Sidpa Bardo"
+    },
+    {
+      "id": "chapter-041",
+      "path": "chapters/041a.md",
+      "type": "chapter",
+      "title": "Chapter 41: The Premonitory Visions of the Place of Rebirth",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": true,
+      "readingGroup": "chapter-041",
+      "section": "Book II: The Sidpa Bardo"
+    },
+    {
+      "id": "chapter-041-b",
+      "path": "chapters/041b.md",
+      "type": "chapter",
+      "title": "Chapter 41: The Premonitory Visions of the Place of Rebirth — What It Means",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": false,
+      "dailyEligible": false,
+      "readingGroup": "chapter-041",
+      "section": "Book II: The Sidpa Bardo"
+    },
+    {
+      "id": "chapter-041-c",
+      "path": "chapters/041c.md",
+      "type": "chapter",
+      "title": "Chapter 41: The Premonitory Visions of the Place of Rebirth — Reflection",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": false,
+      "dailyEligible": false,
+      "readingGroup": "chapter-041",
+      "section": "Book II: The Sidpa Bardo"
+    },
+    {
+      "id": "chapter-042",
+      "path": "chapters/042a.md",
+      "type": "chapter",
+      "title": "Chapter 42: The Protection Against the Tormenting Furies",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": true,
+      "readingGroup": "chapter-042",
+      "section": "Book II: The Sidpa Bardo"
+    },
+    {
+      "id": "chapter-042-b",
+      "path": "chapters/042b.md",
+      "type": "chapter",
+      "title": "Chapter 42: The Protection Against the Tormenting Furies — What It Means",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": false,
+      "dailyEligible": false,
+      "readingGroup": "chapter-042",
+      "section": "Book II: The Sidpa Bardo"
+    },
+    {
+      "id": "chapter-042-c",
+      "path": "chapters/042c.md",
+      "type": "chapter",
+      "title": "Chapter 42: The Protection Against the Tormenting Furies — Reflection",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": false,
+      "dailyEligible": false,
+      "readingGroup": "chapter-042",
+      "section": "Book II: The Sidpa Bardo"
+    },
+    {
+      "id": "chapter-043",
+      "path": "chapters/043a.md",
+      "type": "chapter",
+      "title": "Chapter 43: The Alternative Choosing: Supernormal Birth or Womb-Birth",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": true,
+      "readingGroup": "chapter-043",
+      "section": "Book II: The Sidpa Bardo"
+    },
+    {
+      "id": "chapter-043-b",
+      "path": "chapters/043b.md",
+      "type": "chapter",
+      "title": "Chapter 43: The Alternative Choosing: Supernormal Birth or Womb-Birth — What It Means",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": false,
+      "dailyEligible": false,
+      "readingGroup": "chapter-043",
+      "section": "Book II: The Sidpa Bardo"
+    },
+    {
+      "id": "chapter-043-c",
+      "path": "chapters/043c.md",
+      "type": "chapter",
+      "title": "Chapter 43: The Alternative Choosing: Supernormal Birth or Womb-Birth — Reflection",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": false,
+      "dailyEligible": false,
+      "readingGroup": "chapter-043",
+      "section": "Book II: The Sidpa Bardo"
+    },
+    {
+      "id": "chapter-044",
+      "path": "chapters/044a.md",
+      "type": "chapter",
+      "title": "Chapter 44: Supernormal Birth by Transference to a Paradise Realm",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": true,
+      "readingGroup": "chapter-044",
+      "section": "Book II: The Sidpa Bardo"
+    },
+    {
+      "id": "chapter-044-b",
+      "path": "chapters/044b.md",
+      "type": "chapter",
+      "title": "Chapter 44: Supernormal Birth by Transference to a Paradise Realm — What It Means",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": false,
+      "dailyEligible": false,
+      "readingGroup": "chapter-044",
+      "section": "Book II: The Sidpa Bardo"
+    },
+    {
+      "id": "chapter-044-c",
+      "path": "chapters/044c.md",
+      "type": "chapter",
+      "title": "Chapter 44: Supernormal Birth by Transference to a Paradise Realm — Reflection",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": false,
+      "dailyEligible": false,
+      "readingGroup": "chapter-044",
+      "section": "Book II: The Sidpa Bardo"
+    },
+    {
+      "id": "chapter-045",
+      "path": "chapters/045a.md",
+      "type": "chapter",
+      "title": "Chapter 45: Womb-Birth: The Return to the Human World",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": true,
+      "readingGroup": "chapter-045",
+      "section": "Book II: The Sidpa Bardo"
+    },
+    {
+      "id": "chapter-045-b",
+      "path": "chapters/045b.md",
+      "type": "chapter",
+      "title": "Chapter 45: Womb-Birth: The Return to the Human World — What It Means",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": false,
+      "dailyEligible": false,
+      "readingGroup": "chapter-045",
+      "section": "Book II: The Sidpa Bardo"
+    },
+    {
+      "id": "chapter-045-c",
+      "path": "chapters/045c.md",
+      "type": "chapter",
+      "title": "Chapter 45: Womb-Birth: The Return to the Human World — Reflection",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": false,
+      "dailyEligible": false,
+      "readingGroup": "chapter-045",
+      "section": "Book II: The Sidpa Bardo"
+    },
+    {
+      "id": "chapter-046",
+      "path": "chapters/046a.md",
+      "type": "chapter",
+      "title": "Chapter 46: The General Conclusion",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": true,
+      "readingGroup": "chapter-046",
+      "section": "Book II: The Sidpa Bardo"
+    },
+    {
+      "id": "chapter-046-b",
+      "path": "chapters/046b.md",
+      "type": "chapter",
+      "title": "Chapter 46: The General Conclusion — What It Means",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": false,
+      "dailyEligible": false,
+      "readingGroup": "chapter-046",
+      "section": "Book II: The Sidpa Bardo"
+    },
+    {
+      "id": "chapter-046-c",
+      "path": "chapters/046c.md",
+      "type": "chapter",
+      "title": "Chapter 46: The General Conclusion — Reflection",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": false,
+      "dailyEligible": false,
+      "readingGroup": "chapter-046",
+      "section": "Book II: The Sidpa Bardo"
+    },
+    {
+      "id": "invocation",
+      "path": "chapters/100.md",
+      "type": "appendix",
+      "title": "Invocation of the Buddhas and Bodhisattvas",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": false,
+      "section": "Prayers, root verses, and colophon"
+    },
+    {
+      "id": "good-wishes-liberation",
+      "path": "chapters/101.md",
+      "type": "appendix",
+      "title": "The Path of Good Wishes for Saving from the Narrow Way of the Bardo",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": false,
+      "section": "Prayers, root verses, and colophon"
+    },
+    {
+      "id": "root-verses",
+      "path": "chapters/102.md",
+      "type": "appendix",
+      "title": "The Root Verses of the Six Bardos",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": false,
+      "section": "Prayers, root verses, and colophon"
+    },
+    {
+      "id": "good-wishes-protection",
+      "path": "chapters/103.md",
+      "type": "appendix",
+      "title": "The Path of Good Wishes which Protects from Fear in the Bardo",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": false,
+      "section": "Prayers, root verses, and colophon"
+    },
+    {
+      "id": "colophon",
+      "path": "chapters/104.md",
+      "type": "appendix",
+      "title": "The Colophon",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": false,
+      "section": "Prayers, root verses, and colophon"
+    },
+    {
+      "id": "epilogue",
+      "path": "epilogue.md",
+      "type": "epilogue",
+      "title": "Epilogue",
+      "includeIn": [
+        "pdf",
+        "paperback",
+        "epub",
+        "docx",
+        "md"
+      ],
+      "searchable": true,
+      "dailyEligible": false
+    }
+  ],
+  "excluded": [
+    {
+      "path": "README.md",
+      "reason": "Repository description; not included by the current compiler."
+    },
+    {
+      "path": "back-cover.md",
+      "reason": "Back-cover marketing copy; not a manuscript input."
+    },
+    {
+      "path": "blank.md",
+      "reason": "Empty leading placeholder in the legacy compiler; emits no text."
+    }
+  ]
+}
